@@ -27,7 +27,7 @@ Explore trending, popular movies and search for any movie instantly!
 ### Installation
 ```bash
 git clone https://github.com/Aswathy128/movie-explorer.git
-cd MOVIE-SEARCH-APP
+cd movie-explorer
 npm install
 ```
 ### Setup API Key
