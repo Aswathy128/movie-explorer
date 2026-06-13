@@ -24,4 +24,24 @@ Explore trending, popular movies and search for any movie instantly!
 - 📱 Fully responsive design
 - ⌨️ Search on Enter key press
 
+### Installation
+```bash
+git clone https://github.com/Aswathy128/movie-explorer.git
+cd MOVIE-SEARCH-APP
+npm install
+```
+### Setup API Key
+Create a .env file in root folder:
+VITE_API_KEY=your_tmdb_api_key_here
+
+### Run the app
+```bash
+npm run dev
+```
+## 🔮 Future Features
+- 🌍 Language filtering
+- ❤️ Favorites list
+- 📋 Watchlist
+- 🌙 Dark/Light mode
+
 
