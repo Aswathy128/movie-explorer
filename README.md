@@ -14,12 +14,12 @@ User can explore trending and popular movies, search for any movie instantly and
 - Vite
 
 ## ✨ Features
-- 🔍 Search movies instantly
+- 🔍 Search movies by title
 - 🔥 Trending movies this week
 - ⭐ Popular movies
 - 🎬 Detailed movie information
-- 🎭 Movie genres, runtime, tagline, duration, overview
-- 🖼️ Beautiful backdrop images
+- 🎭 Movie genres, tagline, duration, overview
+- 🖼️ Beautiful backdrop images and posters
 - 📄 Pagination for search results
 - 📱 Fully responsive design
 - ⌨️ Search on Enter key press
@@ -43,5 +43,6 @@ npm run dev
 - ❤️ Favorites list
 - 📋 Watchlist
 - 🌙 Dark/Light mode
+- User Authentication
 
 
