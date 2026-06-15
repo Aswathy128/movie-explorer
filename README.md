@@ -27,6 +27,8 @@ User can explore trending and popular movies, search for any movie instantly and
 ## 📸 Screenshots
 ### Home Page
 <img width="1894" height="909" alt="1000254503" src="https://github.com/user-attachments/assets/27c358f3-b0d0-4d16-8f52-4787919b8baa" />
+<img width="1898" height="900" alt="1000254507" src="https://github.com/user-attachments/assets/5e6bc36a-fa1f-4525-809c-1349ba09f96a" />
+
 
 
 ### Installation
