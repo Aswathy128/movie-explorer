@@ -24,6 +24,11 @@ User can explore trending and popular movies, search for any movie instantly and
 - 📱 Fully responsive design
 - ⌨️ Search on Enter key press
 
+## 📸 Screenshots
+### Home Page
+<img width="1894" height="909" alt="1000254503" src="https://github.com/user-attachments/assets/27c358f3-b0d0-4d16-8f52-4787919b8baa" />
+
+
 ### Installation
 ```bash
 git clone https://github.com/Aswathy128/movie-explorer.git
