@@ -1,7 +1,7 @@
 # 🎬 Movie Explorer
 
-A React-based movie discovery application built with TMDB API.
-Explore trending, popular movies and search for any movie instantly!
+A React-based movie discovery application built using React, Tailwind CSS and TMDB API.
+User can explore trending and popular movies, search for any movie instantly and view detailed information through a clean and responsive interface.
 
 ## 🌐 Live Demo
 [Click here to view](https://movie-explorer-as.vercel.app/)
