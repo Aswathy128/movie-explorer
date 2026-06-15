@@ -18,7 +18,7 @@ User can explore trending and popular movies, search for any movie instantly and
 - 🔥 Trending movies this week
 - ⭐ Popular movies
 - 🎬 Detailed movie information
-- 🎭 Movie genres, tagline, duration, overview
+- 🎭 Movie genres, tagline, duration, rating, overview
 - 🖼️ Beautiful backdrop images and posters
 - 📄 Pagination for search results
 - 📱 Fully responsive design
